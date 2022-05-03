@@ -1,5 +1,4 @@
 - 👋 Olá, Eu sou VitorGama
-- 
 - 👀 Estou estudando Javascript e Sql
 
 
