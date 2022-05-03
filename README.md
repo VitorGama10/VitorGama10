@@ -1,5 +1,7 @@
-- 👋 Olá, eu sou @VitorGama10
+- 👋 Olá, Eu sou VitorGama
+- 
 - 👀 Estou estudando Javascript e Sql
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
