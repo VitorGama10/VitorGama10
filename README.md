@@ -1,9 +1,7 @@
 - 👋 Olá, Eu sou Vitor Gama
 - 👀 Estudo Data Science 😎😎😎😎
  
-Antes estava no mundo do futebol até que tive problema 
-no coração, então tive que procurar outra coisa pra mim fazer, até que conheci o mundo da tecnologia, a partir dai não me preocupei com meu futuro, está sendo incrivel essa jornada.
-Vamboraaa!!
+Estou em busca da minha primeira experiência profissional na área Data Science, sempre busco novos conhecimentos para evoluir profissionalmente!
 
 
 <div align="center">
