@@ -1,8 +1,6 @@
 - 👋 Olá, Eu sou Vitor Gama
 - 👀 Estudo Data Science 😎😎😎😎
  
-Estou em busca da minha primeira experiência profissional na área Data Science, sempre busco novos conhecimentos para evoluir profissionalmente!
-
 
 <div align="center">
   <a href="https://github.com/VitorGama10">
