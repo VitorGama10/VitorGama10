@@ -1,5 +1,4 @@
-- 👋 Olá, Eu sou Vitor Gama
-- 👀 Estudo Data Science 😎😎😎😎
+# Hello World, I'm  Vitor, be very welcome
  
 
 <div align="center">
