@@ -11,8 +11,8 @@
     <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
     <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
     <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
-    <img src="URL_DO_LOGO_DO_JAVA" width="120" alt="Java">
-    <img src="URL_DO_LOGO_DO_POWER_BI" width="120" alt="Power BI">
+   <img src="caminho_relativo_do_logo_do_java" width="120" alt="Java">
+<img src="caminho_relativo_do_logo_do_power_bi" width="120" alt="Power BI">
   </div>
 </table>
 
