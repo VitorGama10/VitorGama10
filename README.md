@@ -1,7 +1,7 @@
 # Hello World, I'm  Vitor, be very welcome
  &nbsp;
  &nbsp;
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmunizs&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmunizs)](https://github.com/matheusmunizs/github-readme-stats)
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGama10&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGama10)](https://github.com/VitorGama10/github-readme-stats)
 
 ## My Skills
 
@@ -40,8 +40,8 @@
 ## Contacts:
 
 <div> 
- <a href = "mailto:joaovictor.allnet@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/joao-v%C3%ADctor-327a89213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+ <a href = "vitorhugo.oliveiragamaa@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/vitorhugooliveiragama-536636230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 </div>&nbsp;&nbsp;
  
