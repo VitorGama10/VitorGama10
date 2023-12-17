@@ -4,10 +4,6 @@
  &nbsp;
  &nbsp;
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__matheusz__)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-almeida-46528a286)
-
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmunizs&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmunizs)](https://github.com/matheusmunizs/github-readme-stats)
 
 ## Tecnologias que uso atualmente
