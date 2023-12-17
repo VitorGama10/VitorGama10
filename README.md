@@ -1,6 +1,4 @@
 # Hello World, I'm  Vitor, be very welcome
-
-<br> </br>
  &nbsp;
  &nbsp;
 
