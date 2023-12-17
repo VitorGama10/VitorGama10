@@ -5,6 +5,9 @@
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGama10&show_icons=true&theme=tokyonight&hide_border=true&icon_color=58a6ff&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&count_private=true&include_all_commits=true&cache_seconds=1800&hide=contribs)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGama10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/VitorGama10/github-readme-stats)
 
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorGama10&show_icons=true&theme=vue&hide_border=true&icon_color=58a6ff&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&count_private=true&include_all_commits=true&cache_seconds=1800&hide=contribs)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorGama10&layout=compact&theme=vue&hide_border=true&bg
+
+
 
 ## My Skills
 
